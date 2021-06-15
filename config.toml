@@ -1,8 +1,8 @@
 baseURL = "https://moragsimpson.co.uk"
 languageCode = "en-us"
 title = "Morag Simpson - Music"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 theme = "ananke"
-themesDir = "../.."
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
