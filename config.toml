@@ -2,3 +2,37 @@ baseURL = "https://moragsimpson.co.uk"
 languageCode = "en-us"
 title = "Morag Simpson - Music"
 theme = "ananke"
+themesDir = "../.."
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Mon blogue"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Morag Simpson - Description"
+  facebook = "https://www.facebook.com/profile.php?id=100056147393106"
+  youtube = "https://www.youtube.com/channel/UCyCZoTmEr9Cm1uzYgy32_hA"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-washed-red"
+  featured_image = "/images/home-hero.jpg"
+  recent_posts_number = 2
