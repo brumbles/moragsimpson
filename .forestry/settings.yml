@@ -4,6 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/choirs
+  label: Choirs
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
 - type: document
   path: https://github.com/brumbles/moragsimpson/blob/master/public/index.html
   label: Edit Homepage
