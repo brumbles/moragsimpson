@@ -18,3 +18,4 @@ fields:
   label: Information
 pages:
 - content/choir-name.md
+- content/posts/update.md
