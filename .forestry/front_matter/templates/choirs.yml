@@ -16,6 +16,3 @@ fields:
     schema:
       format: markdown
   label: Information
-pages:
-- content/choir-name.md
-- content/posts/update.md
