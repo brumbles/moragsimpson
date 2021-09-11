@@ -53,11 +53,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "Morag Simpson MA LRAM LTCL"
-description = "LESSONS GIVEN IN PIANO/SINGING/THEORY AND RECORDER IN WESTHILL"
-# button
-btn     = true
-btnText = "Download More"
-btnURL  = "https://themefisher.com/"
+description = "Westhill Music Studio simpsonmorag@gmail.com / 07818 464546"
 
 # flip text
 [[params.banner.flipText]]
@@ -70,8 +66,8 @@ title   = "AUTHOR"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+title   = "Lessons & Choirs"
+content = "LESSONS GIVEN IN PIANO/SINGING/THEORY AND RECORDER IN WESTHILL -  Phone for further details. <br> Choirs - kirkton Choris - Thursdays 12 Noon - Milne Hall Skene <br> Musical Midgies - Friday Evenings - venue tbc <br> Coro Piccolo - Date and times to ne arranged <br> New Choirs! Silver Sweetheart Singers - Care Homes / Residential Homes - contact for weekly/monthly choir rehearsals <br> Singalongs - Happy Harmonies <br> £40 per hour to include loan of music"
 image   = "images/about/about.jpg"
 
 # Call to Action
@@ -84,7 +80,7 @@ btnURL  = "/contact"
 
 # Portfolio Section On Homepage
 [params.portfolio]
-enable  = true
+enable  = false
 title   = "Latest Works"
 subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
