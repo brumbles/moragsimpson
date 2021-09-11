@@ -53,7 +53,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "Morag Simpson MA LRAM LTCL"
-description = "WITH SEVERAL YEARS EXPERIENCE, LESSONS GIVEN IN PIANO/SINGING/THEORY AND RECORDER IN WESTHILL"
+description = "LESSONS GIVEN IN PIANO/SINGING/THEORY AND RECORDER IN WESTHILL"
 # button
 btn     = true
 btnText = "Download More"
