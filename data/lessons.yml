@@ -2,7 +2,7 @@ enable  : true
 title   : Lessons
 subtitle: Lessons available in the below
 image   : images/recorder.jpg
-serviceItem :
+lessonsItem :
   - icon  : ion-ios-paper-outline
     title : Piano
     description: >

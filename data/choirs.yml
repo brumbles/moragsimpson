@@ -2,7 +2,7 @@ enable  : true
 title   : Choirs
 subtitle: Choir description - more info
 image   : images/sheet.jpg
-serviceItem :
+choirsItem :
   - icon  : ion-music-note
     title : Morven 
     description : >
