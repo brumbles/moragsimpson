@@ -11,10 +11,6 @@ name    = "Home"
 url     = "/"
 weight  = 1
 [[menu.main]]
-name    = "About"
-url     = "about"
-weight  = 2
-[[menu.main]]
 name    = "Choirs"
 url     = "choirs"
 weight  = 3
@@ -26,10 +22,10 @@ weight  = 4
 name    = "Blog"
 url     = "blog"
 weight  = 5
-[[menu.main]]
-name    = "Shop"
-url     = "shop"
-weight  = 6
+#[[menu.main]]
+#name    = "Shop"
+#url     = "shop"
+#weight  = 6
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
@@ -67,16 +63,14 @@ title   = "AUTHOR"
 [params.about]
 enable  = true
 title   = "Lessons & Choirs"
-content = "LESSONS GIVEN IN PIANO/SINGING/THEORY AND RECORDER IN WESTHILL -  Phone for further details. <br> Choirs - Kirkton Chorus - Thursdays 12 Noon - Milne Hall Skene <br> Musical Midgies - Friday Evenings - Venue tbc <br> Coro Piccolo - Date and times to be arranged <br> New Choirs! Silver Sweetheart Singers - Care Homes / Residential Homes - contact for weekly/monthly choir rehearsals <br> Singalongs - Happy Harmonies <br> £40 per hour to include loan of music"
+content = "LESSONS GIVEN IN PIANO/SINGING/THEORY AND RECORDER IN WESTHILL -  Phone for further details. "
 image   = "images/about/about.jpg"
 
 # Call to Action
 [params.cta]
 enable  = true
 title   = "Contact"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
-btnURL  = "/contact"
+content = "3 Crombie Circle, Westhill, AB32 6PY <br> simpsonmorag@gmail.com <br> 07818 44546
 
 # Portfolio Section On Homepage
 [params.portfolio]
