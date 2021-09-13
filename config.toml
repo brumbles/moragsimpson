@@ -70,7 +70,7 @@ image   = "images/about/about.jpg"
 [params.cta]
 enable  = true
 title   = "Contact"
-content = "3 Crombie Circle, Westhill, AB32 6PY <br> simpsonmorag@gmail.com <br> 07818 44546
+content = "3 Crombie Circle, Westhill, AB32 6PY <br> simpsonmorag@gmail.com <br> 07818 44546"
 
 # Portfolio Section On Homepage
 [params.portfolio]
